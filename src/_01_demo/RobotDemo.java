@@ -2,7 +2,7 @@ package _01_demo;
 
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2020
- *    Level 0
+ *    Level 0 
  */
 
 import org.jointheleague.graphical.robot.Robot;
